@@ -18,7 +18,7 @@ Python 3.x NumPy, Pandas → Data handling Scikit-learn → Machine learning alg
 
 ⚙️ Installation
 
-Clone the repository: git clone:-  Disease_Detector
+Clone the repository: git clone:-https://github.com/abhaysinghbais10/Disease-Predictor-.git  Disease_Detector
 
 Create and activate a virtual environment (recommended): python -m venv venv source venv/bin/activate # On Linux/Mac venv\Scripts\activate # On Windows
 
